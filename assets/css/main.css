@@ -4332,4 +4332,14 @@ p.normal-text {
     margin-right: 0 !important;
   }
 }
+@media screen and (max-width: 736px) {
+  .flex-about {
+    flex-direction: column; /* stack image above text */
+  }
+  .flex-about .image-side {
+    flex: 0 0 100%;         /* image takes full width */
+    width: 100%;
+    margin-bottom: 1rem;    /* spacing below image */
+  }
+}
 
