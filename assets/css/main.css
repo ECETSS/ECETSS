@@ -4324,3 +4324,12 @@
 p.normal-text {
     color: #000 !important; /* solid black */
 }
+@media screen and (max-width: 736px) {
+  .image-side, .flex-container {
+    float: none !important;
+    width: 100% !important;
+    display: block !important;
+    margin-right: 0 !important;
+  }
+}
+
