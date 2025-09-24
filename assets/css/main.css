@@ -4321,3 +4321,6 @@
 			}
 
 		}
+p.normal-text {
+    color: #000 !important; /* solid black */
+}
