@@ -4363,6 +4363,9 @@ p.normal-text {
     margin-bottom: 1rem;
   }
 }
+.indent {
+  text-indent: 2em; /* roughly one tab width */
+}
 
 
 
