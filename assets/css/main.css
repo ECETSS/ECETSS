@@ -4366,6 +4366,20 @@ p.normal-text {
 .indent {
   text-indent: 2em; /* roughly one tab width */
 }
+/* Fix mobile zoom/overflow issues */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+body {
+  overflow-x: hidden; /* stop sideways scrolling */
+}
+
+.wrapper, .box {
+  box-sizing: border-box; /* prevent padding from breaking layout */
+}
 
 
 
