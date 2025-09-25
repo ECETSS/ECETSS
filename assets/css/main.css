@@ -3114,7 +3114,7 @@
 			}
 
 			.wrapper.style3 a {
-				color: #8a4680;
+				color: #2c5ee2;
 			}
 
 			.wrapper.style3 strong, .wrapper.style3 b {
@@ -3206,7 +3206,7 @@
 				.wrapper.style3 input[type="button"].special,
 				.wrapper.style3 button.special,
 				.wrapper.style3 .button.special {
-					background-color: #8a4680;
+					background-color: #2c5ee2;
 					color: #ffffff !important;
 				}
 
@@ -3215,7 +3215,7 @@
 					.wrapper.style3 input[type="button"].special:hover,
 					.wrapper.style3 button.special:hover,
 					.wrapper.style3 .button.special:hover {
-						background-color: #9b4f90;
+						background-color: #2d61e5;
 					}
 
 					.wrapper.style3 input[type="submit"].special:active,
@@ -3223,7 +3223,7 @@
 					.wrapper.style3 input[type="button"].special:active,
 					.wrapper.style3 button.special:active,
 					.wrapper.style3 .button.special:active {
-						background-color: #793d70;
+						background-color: #2d61e5;
 					}
 
 			.wrapper.style3 label {
@@ -3244,7 +3244,7 @@
 				.wrapper.style3 input[type="email"]:focus,
 				.wrapper.style3 select:focus,
 				.wrapper.style3 textarea:focus {
-					border-color: #8a4680;
+					border-color: #2d61e5;
 					box-shadow: 0 0 0 1px #8a4680;
 				}
 
@@ -3265,15 +3265,15 @@
 
 			.wrapper.style3 input[type="checkbox"]:checked + label:before,
 			.wrapper.style3 input[type="radio"]:checked + label:before {
-				background-color: #8a4680;
-				border-color: #8a4680;
+				background-color: #2d61e5;
+				border-color: #2d61e5;
 				color: #ffffff;
 			}
 
 			.wrapper.style3 input[type="checkbox"]:focus + label:before,
 			.wrapper.style3 input[type="radio"]:focus + label:before {
-				border-color: #8a4680;
-				box-shadow: 0 0 0 1px #8a4680;
+				border-color: #2d61e5;
+				box-shadow: 0 0 0 1px #2d61e5;
 			}
 
 			.wrapper.style3 ::-webkit-input-placeholder {
