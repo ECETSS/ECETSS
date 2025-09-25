@@ -4387,6 +4387,9 @@ p.normal-text {
 .lightboxOverlay, .lightbox {
   z-index: 9999 !important;
 }
+html {
+  scroll-behavior: smooth;
+}
 
 
 
