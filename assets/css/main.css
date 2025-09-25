@@ -2680,7 +2680,9 @@
 
 		.wrapper > .inner {
 			margin: 0 auto;
-			width: 80rem;
+  max-width: 80rem; /* keeps it from getting too wide on desktop */
+  width: 100%;      /* allows it to shrink to fit on mobile */
+  padding: 0 1rem;
 		}
 
 		.wrapper.style1 {
